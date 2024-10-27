@@ -1,3 +1,5 @@
+Website for artist Alice Revelski, featuring her work, experience, and exhibitions. The site offers a glimpse into Alice’s creative journey, showcasing her unique style inspired by antique dolls, rich textures, and literary influences. Visitors can explore her portfolio, view upcoming and past exhibitions, and gain insight into the inspirations behind her art.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
